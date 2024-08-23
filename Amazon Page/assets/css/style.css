@@ -1,0 +1,145 @@
+body{
+    text-align: left;
+    width: 1300px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#e9edee;
+}
+.logo{
+    display: block;
+    width: 110px;
+    background-color: #222f3f;
+    margin: 1rem 0;
+    padding: 1rem;
+    padding-right: 1174px;
+    margin-top: 0;
+    margin-bottom: 0%;
+
+}
+.rdr{
+    color: white;
+    background-color: #374659;
+    padding: 9px;
+    margin: 1rem 0;
+    margin-top: 0;
+    word-spacing: 10px;
+    border-top: #364759; 
+    font-size: 18px;
+    padding-left: 20px;
+}
+#span1{
+    word-spacing: 1px;
+}
+.title{
+    padding: 12px;
+    color: white;
+    background-color: #f56600;
+    text-align: center;
+    margin-inline: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.gift{
+    text-align: center;
+    width: 1200px;
+    height: 200px;
+    margin-inline: 50px;
+    position: absolute;
+        opacity:0.9;
+        z-index: -1;
+}
+.center1{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    padding: 1rem;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin-bottom: 0px
+}
+.center2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    padding: 1rem;
+    padding-top: 0px;
+    margin-bottom: 100px;
+}
+.image-container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px;
+    margin-inline: 50px;
+    background-color: #f5f5f5; 
+    z-index: 0; 
+    position: relative;
+}
+
+.image-box {
+    flex: 1;
+    margin: 0 10px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.image-box img {
+    width: 270px;
+    height: auto;
+    display: block;
+    border-radius: 15px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-box img:hover {
+    transform: scale(1.05);
+}
+.find{
+margin-left: 50px;
+font-size: 18px;
+font-weight: bold;
+}
+.oculus{
+    width: 1200px;
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.play{
+    text-align: center;
+    font-weight: bold;
+}
+.cuffie{
+    width: 1200px;
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.audio{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.torna{
+    text-align: center;
+    color: white;
+    background-color: #364759;
+    padding: 9px;
+    margin: 1rem 0;
+    margin-top: 0;
+    border-top: #364759; 
+    font-size: 18px;
+    padding-left: 20px;
+
+}
+.pollo{
+    color: white;
+}
+.logo2{
+    text-align: center;
+    background-color: #222f3f
+};
